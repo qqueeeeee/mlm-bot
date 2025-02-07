@@ -19,7 +19,12 @@ This is a Telegram MLM (Multi-Level Marketing) bot built on the TRON blockchain.
 
 ## Commands
 `/start` – Start the bot
+
 `/daily` – Claim your daily bonus
+
 `/balance` – Check your earnings
+
 `/withdraw` – Withdraw earnings
+
 `/referrals` – View your referrals
+
